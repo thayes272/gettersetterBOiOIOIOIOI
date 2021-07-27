@@ -1,0 +1,16 @@
+C:\Users\tyler\source\repos\getterSetterSHIT\bin\Debug\net5.0\getterSetterSHIT.exe
+C:\Users\tyler\source\repos\getterSetterSHIT\bin\Debug\net5.0\getterSetterSHIT.deps.json
+C:\Users\tyler\source\repos\getterSetterSHIT\bin\Debug\net5.0\getterSetterSHIT.runtimeconfig.json
+C:\Users\tyler\source\repos\getterSetterSHIT\bin\Debug\net5.0\getterSetterSHIT.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\getterSetterSHIT\bin\Debug\net5.0\getterSetterSHIT.dll
+C:\Users\tyler\source\repos\getterSetterSHIT\bin\Debug\net5.0\ref\getterSetterSHIT.dll
+C:\Users\tyler\source\repos\getterSetterSHIT\bin\Debug\net5.0\getterSetterSHIT.pdb
+C:\Users\tyler\source\repos\getterSetterSHIT\obj\Debug\net5.0\getterSetterSHIT.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\getterSetterSHIT\obj\Debug\net5.0\getterSetterSHIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\source\repos\getterSetterSHIT\obj\Debug\net5.0\getterSetterSHIT.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\getterSetterSHIT\obj\Debug\net5.0\getterSetterSHIT.AssemblyInfo.cs
+C:\Users\tyler\source\repos\getterSetterSHIT\obj\Debug\net5.0\getterSetterSHIT.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\getterSetterSHIT\obj\Debug\net5.0\getterSetterSHIT.dll
+C:\Users\tyler\source\repos\getterSetterSHIT\obj\Debug\net5.0\ref\getterSetterSHIT.dll
+C:\Users\tyler\source\repos\getterSetterSHIT\obj\Debug\net5.0\getterSetterSHIT.pdb
+C:\Users\tyler\source\repos\getterSetterSHIT\obj\Debug\net5.0\getterSetterSHIT.genruntimeconfig.cache
